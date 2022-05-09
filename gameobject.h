@@ -5,6 +5,7 @@
 #include <QObject>
 #include <QWidget>
 
+
 class GameObject : public QObject
 {
     Q_OBJECT

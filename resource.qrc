@@ -1,5 +1,14 @@
 <RCC>
     <qresource prefix="/image">
         <file>resource/image/light_yellow.jpg</file>
+        <file>resource/image/character.png</file>
+        <file>resource/image/0.jpg</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>resource/map/map1.txt</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>resource/music/music.mp3</file>
+        <file>resource/music/Opening.wav</file>
     </qresource>
 </RCC>
